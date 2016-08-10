@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structspectags__s.html" title="spectags_s" alt="" coords="5,101,93,131"/>
+<area shape="rect" id="node4" href="$structspectag__s.html" title="spectag_s" alt="" coords="8,5,91,35"/>
+<area shape="rect" id="node6" href="$structReadLevelEntry.html" title="ReadLevelEntry" alt="" coords="117,101,232,131"/>
+<area shape="rect" id="node9" href="$structOpenFileInfo.html" title="OpenFileInfo" alt="" coords="305,101,401,131"/>
+<area shape="rect" id="node12" href="$structPackage__s.html" title="The structure used to store values for a package." alt="" coords="475,101,560,131"/>
+<area shape="rect" id="node14" href="$structTriggerFileEntry.html" title="TriggerFileEntry" alt="" coords="439,5,553,35"/>
+<area shape="rect" id="node18" href="$structSource.html" title="Source" alt="" coords="627,5,688,35"/>
+<area shape="rect" id="node22" href="$structspeclines__s.html" title="speclines_s" alt="" coords="728,101,819,131"/>
+</map>
